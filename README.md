@@ -7,3 +7,4 @@ The final year of the dataset was used to test the accuracy of the model, and re
 
 Folder titled 'original' contains all of the data taken from the Sean Lehmans Baseball Database
 
+Worked with Jack Carroll and Alexander Tu
